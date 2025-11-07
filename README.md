@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith9620&label=Profile%20views&color=0e75b6&style=flat" alt="ajith9620" /> </p>
 
-- 👨🏽‍🎓 I’m currently studying in **Gitam university**
-
-- 💬 Ask me about **C++, Web technologies**
-
 - 📧 How to reach me **962014ajith@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
